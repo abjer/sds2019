@@ -5,6 +5,12 @@ date: 2018-06-21
 
 This page contains information about the course groups as well as information on mandatory assignments and exam project.
 
+# Place and time
+
+The course runs from August 12, 2019 to August 31. See [timeplan](https://abjer.github.io/sds2019/page/timeplan) for teaching schedule.
+
+We teach in the lecture hall CSS 35-01-05.
+
 
 # Groups
 
