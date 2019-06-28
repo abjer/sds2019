@@ -4,7 +4,7 @@ date: 2019-06-26
 ---
 This post contain practical information related to each of the three assignments. Check back later for news about deadlines and other assignment related information.
 
-**Assignment 0:** Available July, 13. Deadline August 11 @ 20.00
+**Assignment 0:** Available July, 15. Deadline August 11 @ 20.00
 
 **Assignment 1:** Available TBA. Deadline TBA.
 
