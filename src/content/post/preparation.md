@@ -8,7 +8,7 @@ date: 2019-06-28
 # Guide to preparations
 It is necessary that you time preparing for the course. We expect that you have spent 30-50 hours on learning basic Python before we begin teaching. In particular you should do the following (prioritized order):
 
-1. [Install anaconda and other software](abjer.github.io/sds2019/post/install)
+1. [Install anaconda and other software](https://abjer.github.io/sds2019/post/install)
 2. Install nbgrader with anaconda (write `pip install nbgrader` in the terminal/prompt)
 3. Open Assignment 0 in Jupyter notebook, [see this guide](https://www.codecademy.com/articles/how-to-use-jupyter-notebooks) on how to open and use a notebook
 4. Work on Assignment 0 - try to solve as much as possible
@@ -26,7 +26,7 @@ It is necessary that you time preparing for the course. We expect that you have 
 In preparation for the course you are expected to hand in an assignment in Python before lectures begin. This assignment is intended to ensure that you all know some basic python when you begin the summer school.
 The assignment will be posted on github and Absalon on July 15, and must also be handed in via Absalon no later than **Sunday August 11th**.
 
-The assignment is **individual**. You are welcome to discuss answers with others. The answers you provide in the assignment will be used to **place you into groups**. Your
+The assignment is **individual**. You are welcome to discuss answers with others. The answers you provide in the assignment will be used to **place you into groups**, see [practical info](https://abjer.github.io/sds2019/page/practical) for details. Your
 group members will be randomly selected among those who performed approximately equally well on assignment 0.
 
 

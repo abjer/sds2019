@@ -8,7 +8,7 @@ This page contains information about the course groups as well as information on
 
 # Groups
 
-On the first day we will assign you to a group. The assignment to groups is strictly random. The groups is for you to meet new people as this course has a broad group of students. The groups will be used for handing in the mandatory assignments and the final exam projects, see below. If you are too few people in the group we will reassign you to another group.
+On the first day we will assign you to a group. The group allocation is strictly random but will be based on your performance in Assignment 0. The groups is for you to meet new people as this course has a broad group of students. The groups will be used for handing in Assignments 1 and 2 and the final exam projects, see below. If you are too few people in the group we will reassign you to another group.
 
 
 # Mandatory assignments
@@ -19,7 +19,7 @@ There are three mandatory assignments. The first must be handed-in individually.
 - Assignment 1: collecting and structuring data.
 - Assignment 2: machine learning and text data.
 
-The assignments will be available in Absalon and at the [assignment page](abjer.github.io/sds2019/post/assignment)
+The assignments will be available in Absalon and at the [assignment page](https://abjer.github.io/sds2019/post/assignment)
 
 # Exam project
 
@@ -36,7 +36,7 @@ The grade for this course is exclusively determined by the project handed in. Th
 - how results are explained (writing, figures, tables with model output etc.);
 - the research question and its originality and how it is answered.
 
-Some advice about the grading. It is essential that spend time on motivating your project and conveying your results. In addition, it is important that you spend time on calibrating and validating the models you work with rather than using as many models as possible.
+Some advice about the grading. It is essential that spend time on motivating your project and conveying your results. In addition, it is important that you spend time on calibrating and validating the models you work with rather than using as many models as possible. We emphasize that using machine learning is NOT necessary to make a great project, many of the best projects gain insights from the data without modelling.
 
 ### Requirements for project
 
@@ -59,8 +59,8 @@ The exam projects have a number of requirements that must be met, these are: req
 
 Students in previous years of Social Data Science have used a large variety of data sources including:
 
-- news on [DR](dr.dk) (Danish Broadcasting Company) and the Danish newspaper Information
-- price of cars for sales on [bilbasen](bilbasen.dk)
+- news on [DR](https://dr.dk) (Danish Broadcasting Company) and the Danish newspaper Information
+- price of cars for sales on [bilbasen](https://bilbasen.dk)
 - analyzing linguistic content on Twitter
 - Airbnb pricing in Copenhagen
 - Prediction of bitcoin prices from Reddit data.

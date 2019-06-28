@@ -23,8 +23,8 @@ If you want to watch a step-by-step tutorial on how to install Anaconda and Jupy
 - Install Anaconda for Windows by [following these steps](https://docs.continuum.io/anaconda/install-windows) or [watch this video](https://www.youtube.com/watch?v=Vt6loGK9Adc)
 - Install Anaconda for Mac by [following these steps](https://docs.continuum.io/anaconda/install-macos.html#macos-graphical-install) or [watch this video](https://www.youtube.com/watch?v=OOFONKvaz0A)
 
-Since the vast majority of our coding will be in the Python language, we will use an integrated development environment ([IDE](http://en.wikipedia.org/wiki/Integrated_development_environment)). IDEs integrate text editing, syntax highlighting, and version control,
-simplifying the coding process. These packages are automatically included in Anaconda [Jupyter Notebook](http://jupyter.org). It's free and modern, and if you're new to Python this will make it much easier to get started. All Python coding in this course will be done in Jupyter Notebook.
+Since the vast majority of our coding will be in the Python language, we will use an integrated development environment ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)). IDEs integrate text editing, syntax highlighting, and version control,
+simplifying the coding process. These packages are automatically included in Anaconda [Jupyter Notebook](https://jupyter.org). It's free and modern, and if you're new to Python this will make it much easier to get started. All Python coding in this course will be done in Jupyter Notebook.
 
 
 #### Verifying the installation
@@ -50,7 +50,7 @@ or if conda does not support it directly use the more generic package manager:
 
 
 #### Using Jypyter notebook
-The [Jupyter Notebook App](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html#notebook-app) can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu (only Windows) or by typing the following either in a terminal (on Mac/Linux) or cmd (on Windows).
+The [Jupyter Notebook App](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html#notebook-app) can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu (only Windows) or by typing the following either in a terminal (on Mac/Linux) or cmd (on Windows).
 
 `jupyter notebook`
 
