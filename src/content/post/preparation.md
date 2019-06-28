@@ -10,7 +10,7 @@ It is necessary that you time preparing for the course. We expect that you have 
 
 1. [Install anaconda and other software](abjer.github.io/sds2019/post/install)
 2. Install nbgrader with anaconda (write `pip install nbgrader` in the terminal/prompt)
-3. Open Assignment 0 in Jupyter notebook, [see install guide](abjer.github.io/sds2019/post/install) on how to open a notebook
+3. Open Assignment 0 in Jupyter notebook, [see this guide](https://www.codecademy.com/articles/how-to-use-jupyter-notebooks) on how to open and use a notebook
 4. Work on Assignment 0 - try to solve as much as possible
 5. When you get stuck then follow the trouble shooting guidline below - start with a) and move to d)
   <ol type="a">
