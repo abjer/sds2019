@@ -42,18 +42,17 @@ Aug 27| 13-16 |  *brainstorm & supervision (optional)* | TAs | |
 Aug 28| 13-16 |  *brainstorm & supervision (optional)* | TAs | |   
 
 #### Main lecturers
-- Andreas Bjerre-Nielsen (ABN)
+- [Andreas Bjerre-Nielsen (ABN)](https://abjer.github.io)
+- [David Dreyer Lassen (DDL)](https://daviddlassen.github.io/)
 - Snorre Ralund (SR)
-- David Dreyer Lassen (DDL)
-
-
 
 #### Teaching assistants (TAs)
-- Kristoffer Pade Glavind (KPG)
-- Kristian Urup Olesen Larsen (KUOL)
-- Jakob Juul Elben (JJE)
-- Edith Zink (EZ)
+- Asger Andersen (AA)
 - Anne Bundsgaard Ibsen (ABI)
+- Edith Zink (EZ)
+- Jakob Juul Elben (JJE)
+- Kristian Urup Olesen Larsen (KUOL)
+- Kristoffer Pade Glavind (KPG)
 - Lykke Sterll (LS)
 
 #### Download material using Github Desktop
