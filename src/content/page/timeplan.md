@@ -35,11 +35,11 @@ Aug 20| 13-16 | 14. Supervised learning 3 | ABN | |
 Aug 21|  9-12 | 15. Text as data 1 | SR | |
 Aug 21| 13-16 | 16. Cluster analysis | SR | |
 Aug 22|  9-12 | 17. Text as data 2 | SR | |
-Aug 22| 13-16 |  *(brainstorm & supervision)* | TAs | |
-Aug 23| 13-16 |  *(brainstorm & supervision)* | TAs | |
+Aug 22| 13-16 |  *brainstorm & supervision (optional)* | TAs | |
+Aug 23| 13-16 |  *brainstorm & supervision (optional)* | TAs | |
       |       | ---------   Week 3  --------- | | |
-Aug 27| 13-16 |  *(brainstorm & supervision)* | TAs | |
-Aug 28| 13-16 |  *(brainstorm & supervision)* | TAs | |   
+Aug 27| 13-16 |  *brainstorm & supervision (optional)* | TAs | |
+Aug 28| 13-16 |  *brainstorm & supervision (optional)* | TAs | |   
 
 #### Main lecturers
 - Andreas Bjerre-Nielsen (ABN)

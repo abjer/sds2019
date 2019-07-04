@@ -15,13 +15,13 @@ We will discuss these tools in much more detail in class, so don't worry if this
 
 ## Python and Jupyter notebook
 
-[Python](https://www.python.org/) is a free programming language. We will use the distribution called [Anaconda (Conda)](https://conda.io/docs/) as it comes with the most essential for working with data, statistical computing and visualizations. We will use Anaconda for Python 3.6 throughout the course, so please make sure it is installed on your computer before first day of class. It works on all platforms.
+[Python](https://www.python.org/) is a free programming language. We will use the distribution called [Anaconda](https://docs.anaconda.com/anaconda/) as it comes with the most essential for working with data, statistical computing and visualizations. We will use Anaconda for Python 3.6 throughout the course, so please make sure it is installed on your computer before first day of class. It works on all platforms.
 
-Anaconda can be downloaded [here](https://www.continuum.io/downloads), for Windows, Mac or Linux.
+Anaconda can be downloaded [here](https://www.anaconda.com/distribution/#download-section), for Windows, Mac or Linux.
 If you want to watch a step-by-step tutorial on how to install Anaconda and Jupyter Notebook for you machine see the guides here:
 
-- Install Anaconda for Windows by [following these steps](https://docs.continuum.io/anaconda/install-windows) or [watch this video](https://www.youtube.com/watch?v=Vt6loGK9Adc)
-- Install Anaconda for Mac by [following these steps](https://docs.continuum.io/anaconda/install-macos.html#macos-graphical-install) or [watch this video](https://www.youtube.com/watch?v=OOFONKvaz0A)
+- Install Anaconda for Windows by [following these steps](https://docs.anaconda.com/anaconda/install/windows/) or [watch this video](https://www.youtube.com/watch?v=Vt6loGK9Adc)
+- Install Anaconda for Mac by [following these steps](https://docs.anaconda.com/anaconda/install/mac-os/) or [watch this video](https://www.youtube.com/watch?v=OOFONKvaz0A)
 
 Since the vast majority of our coding will be in the Python language, we will use an integrated development environment ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)). IDEs integrate text editing, syntax highlighting, and version control,
 simplifying the coding process. These packages are automatically included in Anaconda [Jupyter Notebook](https://jupyter.org). It's free and modern, and if you're new to Python this will make it much easier to get started. All Python coding in this course will be done in Jupyter Notebook.
@@ -78,7 +78,7 @@ Once you have an account, clone the [course repository](https://github.com/abjer
 
 ```
     # git clone https://github.com/abjer/sds2019
-	Cloning into 'sds'...
+	Cloning into 'sds2019'...
 	remote: Counting objects: 145, done.
 	remote: Compressing objects: 100% (98/98), done.
 	remote: Total 145 (delta 40), reused 137 (delta 37)
