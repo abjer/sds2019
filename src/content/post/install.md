@@ -15,7 +15,7 @@ We will discuss these tools in much more detail in class, so don't worry if this
 
 ## Python and Jupyter notebook
 
-[Python](https://www.python.org/) is a free programming language. We will use the distribution called [Anaconda](https://docs.anaconda.com/anaconda/) as it comes with the most essential for working with data, statistical computing and visualizations. We will use Anaconda for Python 3.6 throughout the course, so please make sure it is installed on your computer before first day of class. It works on all platforms.
+[Python](https://www.python.org/) is a free programming language. We will use the distribution called [Anaconda](https://docs.anaconda.com/anaconda/) as it comes with the most essential for working with data, statistical computing and visualizations. We will use Anaconda for Python 3.7 throughout the course, so please make sure it is installed on your computer before first day of class. It works on all platforms.
 
 Anaconda can be downloaded [here](https://www.anaconda.com/distribution/#download-section), for Windows, Mac or Linux.
 If you want to watch a step-by-step tutorial on how to install Anaconda and Jupyter Notebook for you machine see the guides here:
