@@ -11,7 +11,7 @@ This page contains a schedule of the teaching sessions. It also contains link to
 Date  | Time  | Title | Lecturer | Slides |  Exercises
 ------|------:|-------|:--------:|:------:|------
       |        | -------   Preparation  ------- | | |
-Jul 13|        | Assignment 0 posted  |  |  
+Jul 15|        | Assignment 0 posted  |  |  
 Aug 06|  16:00 | 1a. SDS intro  | KUOL/JJE |  |
 Aug 11|  20:00 | Assignment 0 hand-in  |  |  |
       |       | ---------   Week 1  --------- | | |
