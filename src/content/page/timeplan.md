@@ -11,7 +11,7 @@ This page contains a schedule of the teaching sessions. It also contains link to
 Date  | Time  | Title | Lecturer | Slides |  Exercises
 ------|------:|-------|:--------:|:------:|------
       |        | -------   Preparation  ------- | | |
-Jul 15|        | Assignment 0 posted  |  | [nb](https://github.com/abjer/sds2019/blob/master/assignments/assignment0/assignment_0.ipynb)
+Jul 15|        | Assignment 0 posted  |  |
 Aug 06|  16:00 | 1a. SDS intro  | KUOL/JJE |  |
 Aug 11|  20:00 | Assignment 0 hand-in  |  |  |
       |       | ---------   Week 1  --------- | | |
