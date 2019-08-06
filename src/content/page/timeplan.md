@@ -12,7 +12,7 @@ Date  | Time  | Title | Lecturer | Slides |  Exercises
 ------|------:|-------|:--------:|:------:|------
       |        | -------   Preparation  ------- | | |
 Jul 15|        | Assignment 0 posted  |  |
-Aug 06|  16:00 | Pre-course Workshop  | KUOL/JJE |  |
+Aug 06|  16:00 | Pre-course Workshop  | KUOL/JJE | [slides](https://github.com/abjer/sds2019/blob/master/workshop/workshop_slides.pdf) |
 Aug 11|  20:00 | Assignment 0 hand-in  |  |  |
       |       | ---------   Week 1  --------- | | |
 Aug 12|  9-10 | 1a. SDS intro  | DDL | |
