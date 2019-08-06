@@ -17,7 +17,7 @@ Aug 11|  20:00 | Assignment 0 hand-in  |  |  |
       |       | ---------   Week 1  --------- | | |
 Aug 12|  9-10 | 1a. SDS intro  | DDL | |
 Aug 12| 10-12 | 1b. Python intro  | ABN | |
-Aug 12| 13-16 | 2. Reproducible research | KPG | |
+Aug 12| 13-16 | 2. Reproducible research | ABN | |
 Aug 13|  9-12 | 3. Strings, queries and APIs | ABN| |
 Aug 13| 13-16 | 4. Data structuring 1 | ABN | |
 Aug 14|  9-12 | 5. Visualizations | ABN | |
@@ -32,14 +32,15 @@ Aug 19|  9-12 | 11. Machine learning intro | ABN | |
 Aug 19| 13-16 | 12. Supervised learning 1 | ABN |  |
 Aug 20|  9-12 | 13. Supervised learning 2 | ABN | |
 Aug 20| 13-16 | 14. Supervised learning 3 | ABN | |
-Aug 21|  9-12 | 15. Text as data 1 | SR | |
-Aug 21| 13-16 | 16. Cluster analysis | SR | |
-Aug 22|  9-12 | 17. Text as data 2 | SR | |
-Aug 22| 13-16 |  *brainstorm & supervision (optional)* | TAs | |
-Aug 23| 13-16 |  *brainstorm & supervision (optional)* | TAs | |
+Aug 21|  9-12 | 15. Text as data  | SR | |
+Aug 23| 13-16 |  *brainstorm & supervision* * | TAs | |
+Aug 22| 13-16 |  *brainstorm & supervision* * | TAs | |
       |       | ---------   Week 3  --------- | | |
-Aug 27| 13-16 |  *brainstorm & supervision (optional)* | TAs | |
-Aug 28| 13-16 |  *brainstorm & supervision (optional)* | TAs | |   
+Aug 26| 13-16 |  *brainstorm & supervision* * | TAs | |
+Aug 27| 13-16 |  *brainstorm & supervision* * | TAs | |
+Aug 28| 13-16 |  *brainstorm & supervision* * | TAs | |   
+
+* : optional participation
 
 #### Main lecturers
 - [Andreas Bjerre-Nielsen (ABN)](https://abjer.github.io)

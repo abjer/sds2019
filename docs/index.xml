@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>sodas@ku.dk (Center for Social Data Science)</managingEditor>
     <webMaster>sodas@ku.dk (Center for Social Data Science)</webMaster>
-    <lastBuildDate>Fri, 28 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://abjer.github.io/sds2019/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Useful Jupyter tips</title>
+      <link>https://abjer.github.io/sds2019/post/jupyter/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      <author>sodas@ku.dk (Center for Social Data Science)</author>
+      <guid>https://abjer.github.io/sds2019/post/jupyter/</guid>
+      <description>This post provides a short intro on picking up useful Jupyter hacks. We begin with a short overview of the most essential Jupyter shortcuts and skills. If you have not read the introduction to Jupyter you should do that immediately, see here.
+Keyboard short cuts Editing and executing cells - enter edit mode: click inside the cell or press ENTR - exit edit mode: click outside cell or press ESC.</description>
+    </item>
     
     <item>
       <title>Preparation</title>
