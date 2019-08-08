@@ -11,9 +11,9 @@ This page contains a schedule of the teaching sessions. It also contains link to
 Date  | Time  | Title | Lecturer | Slides |  Exercises
 ------|------:|-------|:--------:|:------:|------
       |        | -------   Preparation  ------- | | |
-Jul 15|        | Assignment 0 posted  |  |
-Aug 06|  16:00 | Pre-course Workshop  | KUOL/JJE | [slides](https://github.com/abjer/sds2019/blob/master/workshop/workshop_slides.pdf) |
-Aug 11|  20:00 | Assignment 0 hand-in  |  |  |
+Jul 15|        |  <font color="green">Assignment 0 posted</font>   |  |
+Aug 06|  16:00 | Pre-course Workshop `*` | KUOL/JJE | [slides](https://github.com/abjer/sds2019/blob/master/workshop/workshop_slides.pdf) |
+Aug 11|  20:00 | <font color="red">Assignment 0 hand-in</font>  |  |  |
       |       | ---------   Week 1  --------- | | |
 Aug 12|  9-10 | 1a. SDS intro  | DDL | |
 Aug 12| 10-12 | 1b. Python intro  | ABN | |
@@ -24,23 +24,27 @@ Aug 14|  9-12 | 5. Visualizations | ABN | |
 Aug 14| 13-16 | 6. Data structuring 2 | ABN | |
 Aug 15|  9-12 | 7. Data structuring 3 | ABN| |
 Aug 15| 13-16 | 8. Scraping 1 | SR | |
+Aug 15| 16:00 |  <font color="green">Assignment 1 posted</font>   |  |  |
 Aug 16| 9-..  | 9a. Big Data Intro | DDL | |
 Aug 16| ..-12 | 9b. Ethics | DDL | |
-Aug 16|  13-16 | 10. Scraping 2 | SR | |
+Aug 16|  13-16| 10. Scraping 2 | SR | |
+Aug 18|  20:00 |  <font color="red">Assignment 1 hand-in</font>   |  |  |
       |       | ---------   Week 2  --------- | | |
 Aug 19|  9-12 | 11. Machine learning intro | ABN | |
 Aug 19| 13-16 | 12. Supervised learning 1 | ABN |  |
 Aug 20|  9-12 | 13. Supervised learning 2 | ABN | |
 Aug 20| 13-16 | 14. Supervised learning 3 | ABN | |
 Aug 21|  9-12 | 15. Text as data  | SR | |
-Aug 23| 13-16 |  *brainstorm & supervision* * | TAs | |
-Aug 22| 13-16 |  *brainstorm & supervision* * | TAs | |
-      |       | ---------   Week 3  --------- | | |
-Aug 26| 13-16 |  *brainstorm & supervision* * | TAs | |
-Aug 27| 13-16 |  *brainstorm & supervision* * | TAs | |
-Aug 28| 13-16 |  *brainstorm & supervision* * | TAs | |   
+Aug 21| 16:00 | <font color="green">Assignment 2 posted</font>  |  |  |
+Aug 22| 13-16 |  *brainstorm & supervision* `*` | TAs | |
+Aug 23| 13-16 |  *brainstorm & supervision* `*` | TAs | |
+Aug 23| 20:00 | <font color="red">Assignment 2 hand-in</font>  |  |  |
+      |       | ---------   Week 3  ---------   | | |
+Aug 26| 13-16 |  *brainstorm & supervision* `*` | TAs | |
+Aug 27| 13-16 |  *brainstorm & supervision* `*` | TAs | |
+Aug 28| 13-16 |  *brainstorm & supervision* `*` | TAs | |   
 
-* : optional participation
+`*` : optional participation
 
 #### Main lecturers
 - [Andreas Bjerre-Nielsen (ABN)](https://abjer.github.io)
