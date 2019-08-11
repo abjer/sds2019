@@ -87,3 +87,8 @@ pygmentsCodefencesGuessSyntax = true
       name = "Jupyter tips"
       url = "post/jupyter/"
       weight = 4
+    [[menu.main]]
+        parent = "posts"
+        name = "Exam project"
+        url = "post/exam/"
+        weight = 5

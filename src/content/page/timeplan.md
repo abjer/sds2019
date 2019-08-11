@@ -15,9 +15,9 @@ Jul 15|        |  <font color="green">Assignment 0 posted</font>   |  |
 Aug 06|  16:00 | Pre-course Workshop `*` | KUOL/JJE | [slides](https://github.com/abjer/sds2019/blob/master/workshop/workshop_slides.pdf) |
 Aug 11|  20:00 | <font color="red">Assignment 0 hand-in</font>  |  |  |
       |       | ---------   Week 1  --------- | | |
-Aug 12|  9-10 | 1a. SDS intro  | DDL | |
-Aug 12| 10-12 | 1b. Python intro  | ABN | |
-Aug 12| 13-16 | 2. Reproducible research | ABN | |
+Aug 12|  9-10 | 1a. SDS intro  | DDL | [key](https://github.com/abjer/sds2019/blob/master/material/session_1/lecture_1a.key), [pdf](https://github.com/abjer/sds2019/blob/master/material/session_1/lecture_1a.pdf) |
+Aug 12| 10-12 | 1b. Python intro  | ABN |  [nb](https://github.com/abjer/sds2019/blob/master/material/session_1/lecture_1b.ipynb), [pdf](https://github.com/abjer/sds2019/blob/master/material/session_1/lecture_1b.pdf)|[ex](https://github.com/abjer/sds2019/blob/master/material/session_1/exercise_1.ipynb)
+Aug 12| 13-16 | 2. Reproducible research | ABN |  [nb](https://github.com/abjer/sds2019/blob/master/material/session_2/lecture_2.ipynb), [pdf](https://github.com/abjer/sds2019/blob/master/material/session_2/lecture_2.pdf)|[ex](https://github.com/abjer/sds2019/blob/master/material/session_2/exercise_2.ipynb)
 Aug 13|  9-12 | 3. Strings, queries and APIs | ABN| |
 Aug 13| 13-16 | 4. Data structuring 1 | ABN | |
 Aug 14|  9-12 | 5. Visualizations | ABN | |

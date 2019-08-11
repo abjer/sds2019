@@ -20,6 +20,14 @@ Converting between markdown and code (command mode only)
 - as markdown: `m`
 - as code: `y`
 
+Cutting, copying and pasting cells (command mode only).
+- cut cell(s): `x`
+- copy cell(s): `c`
+- paste cell(s): `v`
+
+
+Tip: you can select multiple cells at once by holding shift and using mouse / arrow keys.
+
 See all Jupyter keyboard shortcuts in menu (top): `Help > Keyboard Shortcuts`, or press `H` in command mode.
 
 ## Other tips
