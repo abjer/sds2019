@@ -38,7 +38,7 @@ Aug 21|  9-12 | 15. Text as data  | SR | |
 Aug 21| 16:00 | <font color="green">Assignment 2 posted</font>  |  |  |
 Aug 22| 13-16 |  *brainstorm & supervision* `*` | TAs | |
 Aug 23| 13-16 |  *brainstorm & supervision* `*` | TAs | |
-Aug 23| 20:00 | <font color="red">Assignment 2 hand-in</font>  |  |  |
+Aug 23| 15:00 | <font color="red">Assignment 2 hand-in</font>  |  |  |
       |       | ---------   Week 3  ---------   | | |
 Aug 26| 13-16 |  *brainstorm & supervision* `*` | TAs | |
 Aug 27| 13-16 |  *brainstorm & supervision* `*` | TAs | |
