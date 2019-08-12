@@ -120,15 +120,34 @@ We learn two powerful tools in data structuring: combining different data sets a
 - Wickham, Hadley. 2011. “[The Split-Apply-Combine Strategy for Data Analysis](http://www.jstatsoft.org/article/view/v040i01)”. Journal of Statistical Software 40(1).
 
 
+
+
 ## Session 8: Scraping 1 - Data Collection
 We learn to create and collect datasets from the web. This means interacting with apis and webpages and extracting information from unstructured webpages.
 #### Required readings
 
-TBA
+- Chapter 2: "Working with Web Data and APIs." in **[Big Data and Social Science: A Practical Guide to Methods and Tools](http://www.bigdatasocialscience.com/home)** edited by Ian Foster, Rayid Ghani, Ron S. Jarmin, Frauke Kreuter, and Julia Lane.
+(copies will be provided).
+- Shiab, Nael. 2015. "[On the Ethics of Web Scraping and Data Journalism](http://gijn.org/2015/08/12/on-the-ethics-of-web-scraping-and-data-journalism/)". Global Investigative Journalism Network.
 
 #### Inspirational reading
 
-TBA
+Below are some interesting academic papers using data scraped from online sources that might provide inspiration for your exam project.
+
+- Stephens-Davidowitz, Seth. 2014. "[The cost of racial animus on a black candidate: Evidence using Google search data](http://www.sciencedirect.com/science/article/pii/S0047272714000929)." *Journal of Public Economics*, 118: 26-40.
+
+- Stephens-Davidowitz, Seth, Hal Varian, and Michael D. Smith. 2016. "[Super Returns to Super Bowl Ads?](http://people.ischool.berkeley.edu/~hal/Papers/2015/super.pdf)". R & R, *Journal of Political Economy*.
+
+- Stephens-Davidowitz, Seth, and Hal Varian. 2015 "[A Hands-on Guide to Google Data](https://www.aeaweb.org/aea/2016conference/program/retrieve.php?pdfid=772)." Google working paper.
+
+- Barberá, Pablo. 2015. "[Birds of the same feather tweet together: Bayesian ideal point estimation using Twitter data](http://pan.oxfordjournals.org/content/23/1/76.short)." *Political Analysis*, 23.1: 76-91.
+
+- Cavallo, A. (2018). ["Scraped data and sticky prices"](https://www.mitpressjournals.org/doi/abs/10.1162/REST_a_00652). *Review of Economics and Statistics*, 100(1).
+
+- Bond, Robert M., et al. 2012. "[A 61-million-person experiment in social influence and political mobilization](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3834737/)." *Nature*, 489.7415: 295-298.
+
+
+
 
 ## Session 9: Ethics and Big Data Intro
 #### Required readings
@@ -158,7 +177,9 @@ Big data
 ## Session 10: Scraping 2 - Parsing
 Here we develop our skills in parsing and pattern extraction using regular expressions. This is a fundamental data science skill that goes beyond web scraping alone.
 #### Required readings
-TBA
+- Chapter 2. Dan Jurafsky and James H. Martin: [Speech and Language Processing (3rd ed. draft)] (https://web.stanford.edu/~jurafsky/slp3/)
+- Introduction to pattern matching using regex: "[An introduction to regex in python](https://scotch.io/tutorials/an-introduction-to-regex-in-python). Blog.
+
 
 
 
@@ -218,28 +239,27 @@ We introduce principal component analysis for dimensionality reduction.
 - BBB: sections 4.1, 4.2
 
 
-## Session 15: Text data 1
+## Session 15: Text data
 We introduce the concept of **Text as Data**, and apply our newly acquired knowledge of supervised learning to a text classification problem.
 #### Required readings
-TBA
+
+- PML: following sections from chapter 8:
+  - Preparing the IMDb movie review data for text processing
+  - Introducing the bag-of-words model
+  - Training a logistic regression model for document classification
+
+- Gentzkow, M., Kelly, B.T. and Taddy, M., 2017. ["Text as data"](http://www.nber.org/papers/w23276.pdf) (No. w23276). *National Bureau of Economic Research*.
+
+- Grimmer, Justin, and Brandon M. Stewart. 2013. "[Text as data: The promise and pitfalls of automatic content analysis methods for political texts](https://pan.oxfordjournals.org/content/early/2013/01/21/pan.mps028.short)." *Political Analysis*, 21.3: 267-297.
 
 #### Inspirational readings
-TBA
 
-## Session 16: Cluster analysis
-We introduce basics concepts in unsupervised learning and cluster analysis. Cluster analysis and unsupervised methods in general are useful both for exploration of your data, feature engineering and as a heuristic meausurement tool when labeled data is expensive.
+- King, G., Pan, J., & Roberts, M. E. 2013. [How censorship in China allows government criticism but silences collective expression](http://gking.harvard.edu/files/censored.pdf). *American Political Science Review*, 107(02), 326-343.
 
-#### Required readings
-TBA
+- Andrea Ceron, Luigi Curini, Stefano M. Iacus. "[Using Sentiment Analysis to Monitor Electoral Campaigns: Method Matters—Evidence From the United States and Italy](http://journals.sagepub.com/doi/abs/10.1177/0894439314521983)
 
-## Session 17: Text data 2
-We introduce simple techniques for sentiment analysis of text that can be used *off-the-shelf*, and apply our knowledge of cluster analysis on a text categorization problem.
-#### Required readings
-TBA
 
-## Miscellaneous
-
-#### Other data types
+## Other data types
 
 In our follow up course, [Topics in Social Data Science](https://github.com/abjer/tsds/wiki), we teach advanced tools for text data and new data types. The new data types include spatial data and network data. If you are interesting in working with
 
@@ -247,7 +267,7 @@ In our follow up course, [Topics in Social Data Science](https://github.com/abje
 
 - For network data we recommend using [NetworkX](https://networkx.github.io/) - a tutorial for NetworkX is found [here](https://networkx.github.io/documentation/networkx-1.10/tutorial/index.html).
 
-#### Python vs R
+## Python vs R
 
 Some students may have noticed that the course in 2015 and 2016 used R for data science, however, we have now opted for Python. Two of the main reasons are that Python has more simple syntax with more flexibility applications, making it easier to learn and better to structure data. In addition Python has a more extensive support for machine learning models, Big Data applications and making custom models, e.g. in microeconomics. See a thorough discussion of advantages between the two programs here:
 

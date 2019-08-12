@@ -1,6 +1,6 @@
 # Social Data Science
 
-Git repo for the webpage for summer school in Social Data Science at the Faculty for Social Sciences at University of Copenhagen (Summer 2019)
+Git repo for the [webpage for summer school in Social Data Science at the Faculty for Social Sciences at University of Copenhagen (Summer 2019)](https://abjer.github.io/sds2019)
 
 This repo contains material inspired by the original webpage by Sebastian Barfort for the 2016 version of the course, see [here](https://github.com/sebastianbarfort/sds_summer) and the summer school in [2017](https://github.com/abjer/sds2017), [2018](https://github.com/abjer/sds).
 
