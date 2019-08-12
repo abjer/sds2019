@@ -70,7 +70,7 @@ pygmentsCodefencesGuessSyntax = true
   [[menu.main]]
       parent = "posts"
       name = "Preparation"
-      url = "post/preparation"
+      url = "post/preparation/"
       weight = 1
   [[menu.main]]
       parent = "posts"
@@ -82,3 +82,13 @@ pygmentsCodefencesGuessSyntax = true
       name = "Installation"
       url = "post/install/"
       weight = 3
+  [[menu.main]]
+      parent = "posts"
+      name = "Jupyter tips"
+      url = "post/jupyter/"
+      weight = 4
+    [[menu.main]]
+        parent = "posts"
+        name = "Exam project"
+        url = "post/exam/"
+        weight = 5

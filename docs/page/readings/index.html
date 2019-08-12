@@ -68,7 +68,7 @@
   "headline": "Course readings",
   "description" : "Textbook for general introduction to social data science:\n Big by Bit - Social research in the digital age by Matthew J. Salganik [BBB], free online version here.  Textbooks for data science in Python\n Python for Data Analysis, 2nd ed. (2017) by Wes McKinney [PDA] Python Machine Learning, 2nd ed. (2017) by Sebastian Raschka \x26amp; Vahid Mirjalili [PML]  Preparation Session 1a \x26amp; 1b: Introduction to SDS and Python We introduce the field and provide an overview of course logistics.",
   "inLanguage" : "en",
-  "wordCount":  1351 ,
+  "wordCount":  1600 ,
   "datePublished" : "2019-06-27T00:00:00",
   "dateModified" : "2019-06-27T00:00:00",
   "image" : "https:\/\/abjer.github.io\/sds2019\/img\/ku_logo_uk_v.png",
@@ -147,11 +147,15 @@
               <a class="navlinks-parent">Posts</a>
               <div class="navlinks-children">
                 
-                  <a href="/sds2019/post/preparation">Preparation</a>
+                  <a href="/sds2019/post/preparation/">Preparation</a>
                 
                   <a href="/sds2019/post/assignment/">Assignments</a>
                 
                   <a href="/sds2019/post/install/">Installation</a>
+                
+                  <a href="/sds2019/post/jupyter/">Jupyter tips</a>
+                
+                  <a href="/sds2019/post/exam/">Exam project</a>
                 
               </div>
             </li>
@@ -431,11 +435,29 @@
 
 <h4 id="required-readings-1">Required readings</h4>
 
-<p>TBA</p>
+<ul>
+<li>Chapter 2: &quot;Working with Web Data and APIs.&quot; in <strong><a href="http://www.bigdatasocialscience.com/home">Big Data and Social Science: A Practical Guide to Methods and Tools</a></strong> edited by Ian Foster, Rayid Ghani, Ron S. Jarmin, Frauke Kreuter, and Julia Lane.
+(copies will be provided).</li>
+<li>Shiab, Nael. 2015. &quot;<a href="http://gijn.org/2015/08/12/on-the-ethics-of-web-scraping-and-data-journalism/">On the Ethics of Web Scraping and Data Journalism</a>&quot;. Global Investigative Journalism Network.</li>
+</ul>
 
 <h4 id="inspirational-reading-2">Inspirational reading</h4>
 
-<p>TBA</p>
+<p>Below are some interesting academic papers using data scraped from online sources that might provide inspiration for your exam project.</p>
+
+<ul>
+<li><p>Stephens-Davidowitz, Seth. 2014. &quot;<a href="http://www.sciencedirect.com/science/article/pii/S0047272714000929">The cost of racial animus on a black candidate: Evidence using Google search data</a>.&quot; <em>Journal of Public Economics</em>, 118: 26-40.</p></li>
+
+<li><p>Stephens-Davidowitz, Seth, Hal Varian, and Michael D. Smith. 2016. &quot;<a href="http://people.ischool.berkeley.edu/~hal/Papers/2015/super.pdf">Super Returns to Super Bowl Ads?</a>&quot;. R &amp; R, <em>Journal of Political Economy</em>.</p></li>
+
+<li><p>Stephens-Davidowitz, Seth, and Hal Varian. 2015 &quot;<a href="https://www.aeaweb.org/aea/2016conference/program/retrieve.php?pdfid=772">A Hands-on Guide to Google Data</a>.&quot; Google working paper.</p></li>
+
+<li><p>Barberá, Pablo. 2015. &quot;<a href="http://pan.oxfordjournals.org/content/23/1/76.short">Birds of the same feather tweet together: Bayesian ideal point estimation using Twitter data</a>.&quot; <em>Political Analysis</em>, 23.1: 76-91.</p></li>
+
+<li><p>Cavallo, A. (2018). <a href="https://www.mitpressjournals.org/doi/abs/10.1162/REST_a_00652">&quot;Scraped data and sticky prices&quot;</a>. <em>Review of Economics and Statistics</em>, 100(1).</p></li>
+
+<li><p>Bond, Robert M., et al. 2012. &quot;<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3834737/">A 61-million-person experiment in social influence and political mobilization</a>.&quot; <em>Nature</em>, 489.7415: 295-298.</p></li>
+</ul>
 
 <h2 id="session-9-ethics-and-big-data-intro">Session 9: Ethics and Big Data Intro</h2>
 
@@ -473,7 +495,10 @@
 
 <h4 id="required-readings-3">Required readings</h4>
 
-<p>TBA</p>
+<ul>
+<li>Chapter 2. Dan Jurafsky and James H. Martin: <a href="https://web.stanford.edu/~jurafsky/slp3/">Speech and Language Processing (3rd ed. draft)</a></li>
+<li>Introduction to pattern matching using regex: &quot;<a href="https://scotch.io/tutorials/an-introduction-to-regex-in-python">An introduction to regex in python</a>. Blog.</li>
+</ul>
 
 <h2 id="session-11-machine-learning-intro">Session 11: Machine learning intro</h2>
 
@@ -547,37 +572,35 @@
 <li><p>BBB: sections 4.1, 4.2</p></li>
 </ul>
 
-<h2 id="session-15-text-data-1">Session 15: Text data 1</h2>
+<h2 id="session-15-text-data">Session 15: Text data</h2>
 
 <p>We introduce the concept of <strong>Text as Data</strong>, and apply our newly acquired knowledge of supervised learning to a text classification problem.</p>
 
 <h4 id="required-readings-8">Required readings</h4>
 
-<p>TBA</p>
+<ul>
+<li><p>PML: following sections from chapter 8:</p>
+
+<ul>
+<li>Preparing the IMDb movie review data for text processing</li>
+<li>Introducing the bag-of-words model</li>
+<li>Training a logistic regression model for document classification</li>
+</ul></li>
+
+<li><p>Gentzkow, M., Kelly, B.T. and Taddy, M., 2017. <a href="http://www.nber.org/papers/w23276.pdf">&quot;Text as data&quot;</a> (No. w23276). <em>National Bureau of Economic Research</em>.</p></li>
+
+<li><p>Grimmer, Justin, and Brandon M. Stewart. 2013. &quot;<a href="https://pan.oxfordjournals.org/content/early/2013/01/21/pan.mps028.short">Text as data: The promise and pitfalls of automatic content analysis methods for political texts</a>.&quot; <em>Political Analysis</em>, 21.3: 267-297.</p></li>
+</ul>
 
 <h4 id="inspirational-readings-1">Inspirational readings</h4>
 
-<p>TBA</p>
+<ul>
+<li><p>King, G., Pan, J., &amp; Roberts, M. E. 2013. <a href="http://gking.harvard.edu/files/censored.pdf">How censorship in China allows government criticism but silences collective expression</a>. <em>American Political Science Review</em>, 107(02), 326-343.</p></li>
 
-<h2 id="session-16-cluster-analysis">Session 16: Cluster analysis</h2>
+<li><p>Andrea Ceron, Luigi Curini, Stefano M. Iacus. &quot;<a href="http://journals.sagepub.com/doi/abs/10.1177/0894439314521983">Using Sentiment Analysis to Monitor Electoral Campaigns: Method Matters—Evidence From the United States and Italy</a></p></li>
+</ul>
 
-<p>We introduce basics concepts in unsupervised learning and cluster analysis. Cluster analysis and unsupervised methods in general are useful both for exploration of your data, feature engineering and as a heuristic meausurement tool when labeled data is expensive.</p>
-
-<h4 id="required-readings-9">Required readings</h4>
-
-<p>TBA</p>
-
-<h2 id="session-17-text-data-2">Session 17: Text data 2</h2>
-
-<p>We introduce simple techniques for sentiment analysis of text that can be used <em>off-the-shelf</em>, and apply our knowledge of cluster analysis on a text categorization problem.</p>
-
-<h4 id="required-readings-10">Required readings</h4>
-
-<p>TBA</p>
-
-<h2 id="miscellaneous">Miscellaneous</h2>
-
-<h4 id="other-data-types">Other data types</h4>
+<h2 id="other-data-types">Other data types</h2>
 
 <p>In our follow up course, <a href="https://github.com/abjer/tsds/wiki">Topics in Social Data Science</a>, we teach advanced tools for text data and new data types. The new data types include spatial data and network data. If you are interesting in working with</p>
 
@@ -587,7 +610,7 @@
 <li><p>For network data we recommend using <a href="https://networkx.github.io/">NetworkX</a> - a tutorial for NetworkX is found <a href="https://networkx.github.io/documentation/networkx-1.10/tutorial/index.html">here</a>.</p></li>
 </ul>
 
-<h4 id="python-vs-r">Python vs R</h4>
+<h2 id="python-vs-r">Python vs R</h2>
 
 <p>Some students may have noticed that the course in 2015 and 2016 used R for data science, however, we have now opted for Python. Two of the main reasons are that Python has more simple syntax with more flexibility applications, making it easier to learn and better to structure data. In addition Python has a more extensive support for machine learning models, Big Data applications and making custom models, e.g. in microeconomics. See a thorough discussion of advantages between the two programs here:</p>
 
