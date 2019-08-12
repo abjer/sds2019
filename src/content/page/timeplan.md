@@ -16,10 +16,10 @@ Aug 06|  16:00 | Pre-course Workshop `*` | KUOL/JJE | [slides](https://github.co
 Aug 11|  20:00 | <font color="red">Assignment 0 hand-in</font>  |  |  |
       |       | ---------   Week 1  --------- | | |
 Aug 12|  9-10 | 1a. SDS intro  | DDL | [key](https://github.com/abjer/sds2019/blob/master/material/session_1/lecture_1a.key), [pdf](https://github.com/abjer/sds2019/blob/master/material/session_1/lecture_1a.pdf) |
-Aug 12| 10-12 | 1b. Python intro  | ABN |  [nb](https://github.com/abjer/sds2019/blob/master/material/session_1/lecture_1b.ipynb), [pdf](https://github.com/abjer/sds2019/blob/master/material/session_1/lecture_1b.pdf)|[ex](https://github.com/abjer/sds2019/blob/master/material/session_1/exercise_1.ipynb)
-Aug 12| 13-16 | 2. Reproducible research | ABN |  [nb](https://github.com/abjer/sds2019/blob/master/material/session_2/lecture_2.ipynb), [pdf](https://github.com/abjer/sds2019/blob/master/material/session_2/lecture_2.pdf)|[ex](https://github.com/abjer/sds2019/blob/master/material/session_2/exercise_2.ipynb)
-Aug 13|  9-12 | 3. Strings, queries and APIs | ABN| |
-Aug 13| 13-16 | 4. Data structuring 1 | ABN | |
+Aug 12| 10-12 | 1b. Python intro  | ABN |  [nb](https://github.com/abjer/sds2019/blob/master/material/session_1/lecture_1b.ipynb), [pdf](https://github.com/abjer/sds2019/blob/master/material/session_1/lecture_1b.pdf)|[ex](https://github.com/abjer/sds2019/blob/master/material/session_1/exercise_1.ipynb), [sol](https://github.com/abjer/sds2019/blob/master/material/session_1/exercise_1_sol.ipynb)
+Aug 12| 13-16 | 2. Reproducible research | ABN |  [nb](https://github.com/abjer/sds2019/blob/master/material/session_2/lecture_2.ipynb), [pdf](https://github.com/abjer/sds2019/blob/master/material/session_2/lecture_2.pdf)|[ex](https://github.com/abjer/sds2019/blob/master/material/session_2/exercise_2.ipynb), [sol](https://github.com/abjer/sds2019/blob/master/material/session_2/exercise_2_sol.ipynb)
+Aug 13|  9-12 | 3. Strings, queries and APIs | ABN| [nb](https://github.com/abjer/sds2019/blob/master/material/session_3/lecture_3.ipynb), [pdf](https://github.com/abjer/sds2019/blob/master/material/session_3/lecture_3.pdf)|[ex](https://github.com/abjer/sds2019/blob/master/material/session_3/exercise_3.ipynb)
+Aug 13| 13-16 | 4. Data structuring 1 | ABN | [nb](https://github.com/abjer/sds2019/blob/master/material/session_4/lecture_4.ipynb), [pdf](https://github.com/abjer/sds2019/blob/master/material/session_4/lecture_4.pdf)|[ex](https://github.com/abjer/sds2019/blob/master/material/session_4/exercise_4.ipynb)
 Aug 14|  9-12 | 5. Visualizations | ABN | |
 Aug 14| 13-16 | 6. Data structuring 2 | ABN | |
 Aug 15|  9-12 | 7. Data structuring 3 | ABN| |
