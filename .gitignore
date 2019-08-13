@@ -4,6 +4,7 @@
 *session_*
 *exercise_template.ipynb
 *.vscode*
+*.slides.html
 
 !material/session_1/
 !material/session_2/
