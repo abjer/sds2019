@@ -5,6 +5,7 @@
 *exercise_template.ipynb
 *.vscode*
 *.slides.html
+*.nbgrader.log
 
 !material/session_1/
 !material/session_2/
