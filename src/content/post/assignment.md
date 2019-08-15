@@ -6,7 +6,7 @@ This post contain practical information related to each of the three assignments
 
 **Assignment 0:** Available July, 15. Deadline August 11 @ 20.00
 
-**Assignment 1:** Available TBA. Deadline TBA.
+**Assignment 1:** Available **NOW**. Deadline August 18 @ 20.00
 
 **Assignment 2:** Available TBA. Deadline TBA.
 
