@@ -23,8 +23,8 @@ Aug 13| 13-16 | 4. Data structuring 1 | ABN | [nb](https://github.com/abjer/sds2
 Aug 14|  9-12 | 5. Visualizations | ABN | [nb](https://github.com/abjer/sds2019/blob/master/material/session_5/lecture_5.ipynb), [pdf](https://github.com/abjer/sds2019/blob/master/material/session_5/lecture_5.pdf) | [ex](https://github.com/abjer/sds2019/blob/master/material/session_5/exercise_5.ipynb), [sol](https://github.com/abjer/sds2019/blob/master/material/session_5/exercise_5_sol.ipynb)
 Aug 14| 13-16 | 6. Data structuring 2 | ABN | [nb](https://github.com/abjer/sds2019/blob/master/material/session_6/lecture_6.ipynb), [pdf](https://github.com/abjer/sds2019/blob/master/material/session_6/lecture_6.pdf) | [ex](https://github.com/abjer/sds2019/blob/master/material/session_6/exercise_6.ipynb), [sol](https://github.com/abjer/sds2019/blob/master/material/session_6/exercise_6_sol.ipynb)
 Aug 15|  9-12 | 7. Data structuring 3 | ABN| [nb](https://github.com/abjer/sds2019/blob/master/material/session_7/lecture_7.ipynb), [pdf](https://github.com/abjer/sds2019/blob/master/material/session_7/lecture_7.pdf) | [ex](https://github.com/abjer/sds2019/blob/master/material/session_7/exercise_7.ipynb)
-Aug 15| 13-16 | 8. Scraping 1 | SR | |
-Aug 15| 16:00 |  <font color="green">Assignment 1 posted</font>   |  |  |
+Aug 15| 13-16 | 8. Scraping 1 | SR | [nb](https://github.com/abjer/sds2019/blob/master/material/session_8/lecture_8.ipynb), [pdf](https://github.com/abjer/sds2019/blob/master/material/session_8/lecture_8.pdf) | [ex](https://github.com/abjer/sds2019/blob/master/material/session_8/exercise_8.ipynb)
+Aug 15| 23:59 |  <font color="green">Assignment 1 posted</font>   |  |  |
 Aug 16| 9-..  | 9a. Big Data Intro | DDL | |
 Aug 16| ..-12 | 9b. Ethics | DDL | |
 Aug 16|  13-16| 10. Scraping 2 | SR | |
