@@ -225,7 +225,7 @@ We introduce cross validation to gauge overfitting and review the linear model.
 
 ## Session 14: Supervised learning 3
 
-We give an overview of non-linear machine learning models and outline how machine learning tools can be applied in social science. 
+We give an overview of non-linear machine learning models and outline how machine learning tools can be applied in social science.
 
 #### Required readings
 
@@ -234,8 +234,6 @@ We give an overview of non-linear machine learning models and outline how machin
 - Varian, Hal. 2012 [Big Data: New Tricks for Econometrics](http://people.ischool.berkeley.edu/~hal/Papers/2013/ml.pdf)
 
 - Athey, Susan. 2018. [The Impact of Machine Learning on Economics](http://www.nber.org/chapters/c14009.pdf) *NBER*
-
-- BBB: sections 4.1, 4.2
 
 
 ## Session 15: Text data

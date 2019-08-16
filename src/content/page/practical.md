@@ -19,7 +19,7 @@ On the first day we will assign you to a group. The group allocation is strictly
 
 # Mandatory assignments
 
-There are three mandatory assignments. The first must be handed-in individually. The two other must be handed-in as groups.
+There are three mandatory assignments. Two of three must be passed in order to be eligible for participating in the exam. The first must be handed-in individually. The two other must be handed-in as groups where each group hands in the same copy.
 
 - Assignment 0: basic Python
 - Assignment 1: collecting and structuring data.
