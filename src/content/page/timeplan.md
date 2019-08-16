@@ -27,7 +27,7 @@ Aug 15| 13-16 | 8. Scraping 1 | SR | [nb](https://github.com/abjer/sds2019/blob/
 Aug 15| 23:59 |  <font color="green">Assignment 1 posted</font>   |  |  |
 Aug 16| 9-..  | 9a. Big Data Intro | DDL | [pptx](https://github.com/abjer/sds2019/blob/master/material/session_9/lecture_9a.pptx), [pdf](https://github.com/abjer/sds2019/blob/master/material/session_9/lecture_9a.pdf) |
 Aug 16| ..-12 | 9b. Ethics | DDL | [pptx](https://github.com/abjer/sds2019/blob/master/material/session_9/lecture_9b.pptx), [pdf](https://github.com/abjer/sds2019/blob/master/material/session_9/lecture_9b.pdf) |
-Aug 16|  13-16| 10. Scraping 2 | SR | [pdf](https://github.com/abjer/sds2019/blob/master/material/session_10/lecture_9.pdf), [nb](https://github.com/abjer/sds2019/blob/master/material/session_10/lecture9.ipynb) | [ex](https://github.com/abjer/sds2019/blob/master/material/session_10/exercise_9.ipynb)
+Aug 16|  13-16| 10. Scraping 2 | SR | [pdf](https://github.com/abjer/sds2019/blob/master/material/session_10/lecture_9.pdf), [nb](https://github.com/abjer/sds2019/blob/master/material/session_10/lecture_9.ipynb) | [ex](https://github.com/abjer/sds2019/blob/master/material/session_10/exercise_9.ipynb)
 Aug 18|  20:00 |  <font color="red">Assignment 1 hand-in</font>   |  |  |
       |       | ---------   Week 2  --------- | | |
 Aug 19|  9-12 | 11. Machine learning intro | ABN | |
