@@ -27,11 +27,11 @@ Aug 15| 13-16 | 8. Scraping 1 | SR | [nb](https://github.com/abjer/sds2019/blob/
 Aug 15| 23:59 |  <font color="green">Assignment 1 posted</font>   |  |  |
 Aug 16| 9-..  | 9a. Big Data Intro | DDL | [pptx](https://github.com/abjer/sds2019/blob/master/material/session_9/lecture_9a.pptx), [pdf](https://github.com/abjer/sds2019/blob/master/material/session_9/lecture_9a.pdf) |
 Aug 16| ..-12 | 9b. Ethics | DDL | [pptx](https://github.com/abjer/sds2019/blob/master/material/session_9/lecture_9b.pptx), [pdf](https://github.com/abjer/sds2019/blob/master/material/session_9/lecture_9b.pdf) |
-Aug 16|  13-16| 10. Scraping 2 | SR | [pdf](https://github.com/abjer/sds2019/blob/master/material/session_10/lecture_10.pdf), [nb](https://github.com/abjer/sds2019/blob/master/material/session_10/lecture_10.ipynb) | [ex](https://github.com/abjer/sds2019/blob/master/material/session_10/exercise_9.ipynb)
+Aug 16|  13-16| 10. Scraping 2 | SR | [pdf](https://github.com/abjer/sds2019/blob/master/material/session_10/lecture_10.pdf), [nb](https://github.com/abjer/sds2019/blob/master/material/session_10/lecture_10.ipynb) | [ex](https://github.com/abjer/sds2019/blob/master/material/session_10/exercise_9.ipynb), [ex](https://github.com/abjer/sds2019/blob/master/material/session_10/exercise_9_sol.ipynb)
 Aug 18|  20:00 |  <font color="red">Assignment 1 hand-in</font>   |  |  |
       |       | ---------   Week 2  --------- | | |
-Aug 19|  9-12 | 11. Machine learning intro | ABN |  [nb](https://github.com/abjer/sds2019/blob/master/material/session_11/lecture_11.ipynb), [pdf](https://github.com/abjer/sds2019/blob/master/material/session_11/lecture_11.pdf)| 
-Aug 19| 13-16 | 12. Supervised learning 1 | ABN |  [nb](https://github.com/abjer/sds2019/blob/master/material/session_12/lecture_12.ipynb), [pdf](https://github.com/abjer/sds2019/blob/master/material/session_12/lecture_12.pdf)|
+Aug 19|  9-12 | 11. Machine learning intro | ABN |  [nb](https://github.com/abjer/sds2019/blob/master/material/session_11/lecture_11.ipynb), [pdf](https://github.com/abjer/sds2019/blob/master/material/session_11/lecture_11.pdf)| [ex](https://github.com/abjer/sds2019/blob/master/material/session_11/exercise_11.ipynb)
+Aug 19| 13-16 | 12. Supervised learning 1 | ABN |  [nb](https://github.com/abjer/sds2019/blob/master/material/session_12/lecture_12.ipynb), [pdf](https://github.com/abjer/sds2019/blob/master/material/session_12/lecture_12.pdf)| [ex](https://github.com/abjer/sds2019/blob/master/material/session_12/exercise_12.ipynb)
 Aug 20|  9-12 | 13. Supervised learning 2 | ABN | |
 Aug 20| 13-16 | 14. Supervised learning 3 | ABN | |
 Aug 21|  9-12 | 15. Text as data  | SR | |
@@ -40,6 +40,7 @@ Aug 22| 13-16 |  *brainstorm & supervision* `*` | TAs | |
 Aug 23| 13-16 |  *brainstorm & supervision* `*` | TAs | |
 Aug 23| 15:00 | <font color="red">Assignment 2 hand-in</font>  |  |  |
       |       | ---------   Week 3  ---------   | | |
+Aug 25| 20:00 | <font color="red">Exam project description due</font>  |  |  |
 Aug 26| 13-16 |  *brainstorm & supervision* `*` | TAs | |
 Aug 27| 13-16 |  *brainstorm & supervision* `*` | TAs | |
 Aug 28| 13-16 |  *brainstorm & supervision* `*` | TAs | |   
