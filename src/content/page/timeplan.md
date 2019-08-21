@@ -37,7 +37,7 @@ Aug 20| 13-16 | 14. Supervised learning 3 | ABN | [nb](https://github.com/abjer/
 Aug 21|  9-12 | 15. Text as data  | SR | [nb](https://github.com/abjer/sds2019/blob/master/material/session_15/lecture15_introTextasdata.ipynb) | [ex](https://github.com/abjer/sds2019/blob/master/material/session_15/exercise_15.ipynb)
 Aug 21| 12:00 | <font color="green">Assignment 2 posted</font>  |  |  |
 Aug 22| 13-16 |  *brainstorm & supervision* `*` | TAs | |
-Aug 23| 10-11 |  *ML recap* `*`                 | ABN | |
+Aug 23| 10-11 |  *ML recap* `*`                 | ABN |  [nb](https://github.com/abjer/sds2019/blob/master/material/recap_ML/recap_supervised_ml.ipynb) |
 Aug 23| 13-16 |  *brainstorm & supervision* `*` | TAs | |
 Aug 23| 15:00 | <font color="red">Assignment 2 hand-in</font>  |  |  |
       |       | ---------   Week 3  ---------   | | |
