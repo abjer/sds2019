@@ -37,15 +37,17 @@ Aug 20| 13-16 | 14. Supervised learning 3 | ABN | [nb](https://github.com/abjer/
 Aug 21|  9-12 | 15. Text as data  | SR | [nb](https://github.com/abjer/sds2019/blob/master/material/session_15/lecture15_introTextasdata.ipynb) | [ex](https://github.com/abjer/sds2019/blob/master/material/session_15/exercise_15.ipynb)
 Aug 21| 12:00 | <font color="green">Assignment 2 posted</font>  |  |  |
 Aug 22| 13-16 |  *brainstorm & supervision* `*` | TAs | |
+Aug 23| 10-11 |  *ML recap* `*`                 | ABN | |
 Aug 23| 13-16 |  *brainstorm & supervision* `*` | TAs | |
 Aug 23| 15:00 | <font color="red">Assignment 2 hand-in</font>  |  |  |
       |       | ---------   Week 3  ---------   | | |
 Aug 25| 20:00 | <font color="red">Exam project description due</font>  |  |  |
-Aug 26| 13-16 |  *brainstorm & supervision* `*` | TAs | |
-Aug 27| 13-16 |  *brainstorm & supervision* `*` | TAs | |
-Aug 28| 13-16 |  *brainstorm & supervision* `*` | TAs | |   
+Aug 26| 13-16 |  *brainstorm & supervision* `*X` | TAs | |
+Aug 27| 13-16 |  *brainstorm & supervision* `*X` | TAs | |
+Aug 28| 13-16 |  *brainstorm & supervision* `*X` | TAs | |   
 
-`*` : optional participation
+`*` : optional participation,
+`X` : takes place in other location - more info to follow
 
 #### Main lecturers
 - [Andreas Bjerre-Nielsen (ABN)](https://abjer.github.io)
