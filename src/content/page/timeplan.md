@@ -32,9 +32,9 @@ Aug 18|  20:00 |  <font color="red">Assignment 1 hand-in</font>   |  |  |
       |       | ---------   Week 2  --------- | | |
 Aug 19|  9-12 | 11. Machine learning intro | ABN |  [nb](https://github.com/abjer/sds2019/blob/master/material/session_11/lecture_11.ipynb), [pdf](https://github.com/abjer/sds2019/blob/master/material/session_11/lecture_11.pdf)| [ex](https://github.com/abjer/sds2019/blob/master/material/session_11/exercise_11.ipynb), [sol](https://github.com/abjer/sds2019/blob/master/material/session_11/exercise_11_sol.ipynb)
 Aug 19| 13-16 | 12. Supervised learning 1 | ABN |  [nb](https://github.com/abjer/sds2019/blob/master/material/session_12/lecture_12.ipynb), [pdf](https://github.com/abjer/sds2019/blob/master/material/session_12/lecture_12.pdf)| [ex](https://github.com/abjer/sds2019/blob/master/material/session_12/exercise_12.ipynb), [sol](https://github.com/abjer/sds2019/blob/master/material/session_12/exercise_12_sol.ipynb)
-Aug 20|  9-12 | 13. Supervised learning 2 | ABN |  [nb](https://gihub.com/abjer/sds2019/blob/master/material/session_13/lecture_13.ipynb), [pdf](https://github.com/abjer/sds2019/blob/master/material/session_13/lecture_13.pdf)| [ex](https://github.com/abjer/sds2019/blob/master/material/session_13/exercise_13.ipynb)
+Aug 20|  9-12 | 13. Supervised learning 2 | ABN |  [nb](https://gihub.com/abjer/sds2019/blob/master/material/session_13/lecture_13.ipynb), [pdf](https://github.com/abjer/sds2019/blob/master/material/session_13/lecture_13.pdf)| [ex](https://github.com/abjer/sds2019/blob/master/material/session_13/exercise_13.ipynb), [sol](https://github.com/abjer/sds2019/blob/master/material/session_13/exercise_13_sol.ipynb)
 Aug 20| 13-16 | 14. Supervised learning 3 | ABN | [nb](https://github.com/abjer/sds2019/blob/master/material/session_14/lecture_14.ipynb), [pdf](https://github.com/abjer/sds2019/blob/master/material/session_14/lecture_14.pdf) | -
-Aug 21|  9-12 | 15. Text as data  | SR | [nb](https://github.com/abjer/sds2019/blob/master/material/session_15/lecture15_introTextasdata.ipynb) | [ex](https://github.com/abjer/sds2019/blob/master/material/session_15/exercise_15.ipynb)
+Aug 21|  9-12 | 15. Text as data  | SR | [nb](https://github.com/abjer/sds2019/blob/master/material/session_15/lecture15_introTextasdata.ipynb) | [ex](https://github.com/abjer/sds2019/blob/master/material/session_15/exercise_15.ipynb),  [sol](https://github.com/abjer/sds2019/blob/master/material/session_15/exercise_15_sol.ipynb)
 Aug 21| 12:00 | <font color="green">Assignment 2 posted</font>  |  |  |
 Aug 22| 13-16 |  *brainstorm & supervision* `*` | TAs | |
 Aug 23| 10-11 |  *ML recap* `*`                 | ABN |  [nb](https://github.com/abjer/sds2019/blob/master/material/recap_ML/recap_supervised_ml.ipynb) |
@@ -47,7 +47,7 @@ Aug 27| 13-16 |  *brainstorm & supervision* `*X` | TAs | |
 Aug 28| 13-16 |  *brainstorm & supervision* `*X` | TAs | |   
 
 `*` : optional participation,
-`X` : takes place in other location - more info to follow
+`X` : takes place in 1.1.18
 
 #### Main lecturers
 - [Andreas Bjerre-Nielsen (ABN)](https://abjer.github.io)
